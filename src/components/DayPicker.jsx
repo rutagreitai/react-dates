@@ -35,8 +35,8 @@ import {
   MODIFIER_KEY_NAMES,
 } from '../constants';
 
-const MONTH_PADDING = 23;
-const DAY_PICKER_PADDING = 9;
+const MONTH_PADDING = 25;
+const DAY_PICKER_PADDING = 0;
 const PREV_TRANSITION = 'prev';
 const NEXT_TRANSITION = 'next';
 
